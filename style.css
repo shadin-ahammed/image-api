@@ -75,8 +75,8 @@ section{
 }
 .header h1{
   cursor: pointer;
-  font-size: 40px;
-  font-weight: 900;
+  font-size: 40px !important;
+  font-weight: 700;
   letter-spacing: -2px;
 }
 form{
