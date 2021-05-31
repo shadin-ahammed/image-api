@@ -40,6 +40,10 @@ body{
   padding: 15px;
   border-radius: 4px;
 }
+#myBtn:hover{
+	background-color:gray;
+	color:black;
+}
 /* -----------End nabar style------- */
 img{
   width: 100%;
@@ -141,12 +145,13 @@ form ion-icon{
   display: inline-block;
   margin-top:30px;
   padding: 20px 50px;
-  background-color: black;
+  background-color: rgb(37, 83, 235);
   text-decoration: none;
   text-transform: uppercase;
   color: lightblue;
   font-weight: 500;
   cursor: pointer;
+  border-radius: 4px;
 }
 .load-more:hover{
 	background-color:gray;
